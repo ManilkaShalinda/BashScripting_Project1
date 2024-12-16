@@ -1,0 +1,58 @@
+#!/bin/bash
+
+counter=2
+
+while true
+do
+  echo "Looping...."
+  echo "Value of counter is $counter."
+  counter=$(( $counter * 2 ))
+  date
+  echo
+  sleep 1
+done
+
+echo "Out of the loop"
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+"16_while.sh" 15L, 181B  

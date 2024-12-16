@@ -1,0 +1,58 @@
+#!/bin/bash
+
+MYUSERS="alpha beta gamma"
+
+for usr in $MYUSERS
+do
+        echo "Adding user $usr."
+        useradd $usr
+        id $usr
+        echo "################################"
+        date
+        echo
+done
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+"14_for.sh" 13L, 171B    
